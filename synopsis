@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>A Study of the Bridges of Shehr-i-Khaas: Negotiating Connections Across the Jhelum</title>
+<style>
+  @page {
+    size: A4 portrait;
+    margin-top: 1in;
+    margin-bottom: 1in;
+    margin-left: 1.25in;
+    margin-right: 1in;
+  }
+  body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+    line-height: 1.5;
+    color: #111;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+  }
+  .page-break {
+    page-break-after: always;
+    break-after: page;
+  }
+  .title-page {
+    text-align: center;
+    padding-top: 0.25in;
+  }
+  .title-page h1 {
+    font-size: 15pt;
+    font-weight: bold;
+    margin: 0 0 6px 0;
+    text-transform: uppercase;
+  }
+  .title-page h2 {
+    font-size: 13pt;
+    font-weight: bold;
+    margin: 0 0 4px 0;
+  }
+  .title-page h3 {
+    font-size: 11pt;
+    font-weight: normal;
+    margin: 0 0 25px 0;
+  }
+  .project-title {
+    font-size: 15pt;
+    font-weight: bold;
+    line-height: 1.4;
+    margin: 25px 0;
+    text-transform: uppercase;
+    border-top: 2px solid #222;
+    border-bottom: 2px solid #222;
+    padding: 14px 0;
+  }
+  .submission-notice {
+    font-size: 11pt;
+    margin: 20px 0;
+  }
+  .meta-table {
+    width: 100%;
+    margin-top: 30px;
+    border: none;
+  }
+  .meta-table td {
+    border: none;
+    vertical-align: top;
+    text-align: left;
+    font-size: 11pt;
+    padding: 4px;
+  }
+  h1.chap-title {
+    font-size: 14pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 12px;
+    border-bottom: 1.5px solid #222;
+    padding-bottom: 5px;
+    page-break-inside: avoid;
+  }
+  h2.sec-title {
+    font-size: 12.5pt;
+    font-weight: bold;
+    margin-top: 18px;
+    margin-bottom: 8px;
+    page-break-inside: avoid;
+  }
+  h3.subsec-title {
+    font-size: 11.5pt;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 14px;
+    margin-bottom: 6px;
+    page-break-inside: avoid;
+  }
+  p {
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-indent: 0.3in;
+  }
+  p.no-indent {
+    text-indent: 0;
+  }
+  ul, ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-left: 0.4in;
+  }
+  li {
+    margin-bottom: 6px;
+  }
+  table.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 10pt;
+    page-break-inside: avoid;
+  }
+  table.data-table th, table.data-table td {
+    border: 1px solid #444;
+    padding: 6px 8px;
+    text-align: left;
+    vertical-align: top;
+  }
+  table.data-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: center;
+  }
+  pre.diagram-box {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 8.5pt;
+    line-height: 1.25;
+    background: #fafafa;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 14px 0;
+    page-break-inside: avoid;
+    white-space: pre;
+  }
+  .sig-table {
+    width: 100%;
+    margin-top: 60px;
+    border: none;
+  }
+  .sig-table td {
+    border: none;
+    vertical-align: bottom;
+    text-align: left;
+    font-size: 11pt;
+  }
+</style>
+</head>
+<body>
+<!-- TITLE PAGE -->
+<div class="title-page page-break">
+  <h1>Abdul Ahad Azad Memorial Degree College Bemina</h1>
+  <h2>Department of History</h2>
+  <h3>Cluster University of Srinagar &bull; Gogji Bagh, Srinagar Kashmir, 190008</h3>
+  <p class="no-indent" style="text-align: center; margin-top: 35px; font-weight: bold; letter-spacing: 0.5px;">A PROJECT DISSERTATION ON</p>
+  
+  <div class="project-title">
+    A Study of the Bridges of Shehr-i-Khaas:<br>
+    Negotiating Connections Across the Jhelum
+  </div>
+  <div class="submission-notice">
+    Submitted In Partial Fulfillment of Requirement<br>
+    For The Award Degree In<br>
+    <strong>Integrated Master of Arts in History</strong>
+  </div>
+  <table class="meta-table">
+    <tr>
+      <td style="width: 55%;">
+        <strong>Submitted by:</strong><br>
+        &bull; Humaira Shafi (Enrollment No: 21070019)<br>
+        &bull; Nadia Hassan (Enrollment No: 21070021)<br>
+        &bull; Muntazir Manzoor (Enrollment No: 21070024)<br>
+        &bull; Malik Arisha (Enrollment No: 21070028)
+      </td>
+      <td style="width: 45%;">
+        <strong>Under the Supervision of:</strong><br>
+        <strong>Assistant Professor Shehzad Bandey</strong><br>
+        Department of History<br>
+        AAAM Degree College Bemina
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 35px; text-align: center;">
+        <strong>Session: 2021–2026</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- CERTIFICATE -->
+<div class="page-break">
+  <h1 class="chap-title" style="text-align: center;">Certificate</h1>
+  <p class="no-indent" style="margin-top: 30px;">
+    This is to certify that the project dissertation entitled <strong>"A Study of the Bridges of Shehr-i-Khaas: Negotiating Connections Across the Jhelum"</strong>, submitted by <strong>Humaira Shafi</strong> (Enrollment No: 21070019), <strong>Nadia Hassan</strong> (Enrollment No: 21070021), <strong>Muntazir Manzoor</strong> (Enrollment No: 21070024), and <strong>Malik Arisha</strong> (Enrollment No: 21070028) in partial fulfillment of the requirement for the award of the degree of <strong>Integrated Master of Arts in History</strong> at Abdul Ahad Azad Memorial Degree College Bemina, Cluster University of Srinagar, is an authentic record of research work carried out under my guidance and supervision during the academic session 2021–2026.
+  </p>
+  <p class="no-indent" style="margin-top: 20px;">
+    To the best of my knowledge, this work has not been submitted previously, in part or in full, to any other college, university, or institution for the award of any degree, diploma, or academic distinction.
+  </p>
+  <table class="sig-table">
+    <tr>
+      <td style="width: 50%;">
+        ____________________________________<br>
+        <strong>Assistant Professor Shehzad Bandey</strong><br>
+        Supervisor, Department of History<br>
+        AAAM Degree College Bemina
+      </td>
+      <td style="width: 50%; text-align: right;">
+        ____________________________________<br>
+        <strong>Head of Department</strong><br>
+        Department of History<br>
+        AAAM Degree College Bemina
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- DECLARATION -->
+<div class="page-break">
+  <h1 class="chap-title" style="text-align: center;">Declaration</h1>
+  <p class="no-indent" style="margin-top: 30px;">
+    We, the undersigned, hereby declare that the project dissertation entitled <strong>"A Study of the Bridges of Shehr-i-Khaas: Negotiating Connections Across the Jhelum"</strong> is an authentic record of our original research conducted under the supervision of Assistant Professor Shehzad Bandey, Department of History, Abdul Ahad Azad Memorial Degree College Bemina, Srinagar.
+  </p>
+  <p class="no-indent" style="margin-top: 15px;">
+    We further declare that this dissertation has not formed the basis for the award of any Degree, Diploma, Associateship, Fellowship, or other similar title at this or any other institution. All literary chronicles, colonial surveys, archaeological records, and field observations consulted during this study have been acknowledged in accordance with academic conventions.
+  </p>
+  <table style="width: 100%; margin-top: 45px; border: none; font-size: 11pt;">
+    <tr>
+      <td style="padding: 10px 0;">Humaira Shafi (Enrollment No: 21070019)</td>
+      <td style="text-align: right;">Signature: __________________________</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 0;">Nadia Hassan (Enrollment No: 21070021)</td>
+      <td style="text-align: right;">Signature: __________________________</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 0;">Muntazir Manzoor (Enrollment No: 21070024)</td>
+      <td style="text-align: right;">Signature: __________________________</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 0;">Malik Arisha (Enrollment No: 21070028)</td>
+      <td style="text-align: right;">Signature: __________________________</td>
+    </tr>
+  </table>
+  <p class="no-indent" style="margin-top: 35px;">
+    <strong>Date:</strong> ____________________<br>
+    <strong>Place:</strong> Srinagar
+  </p>
+</div>
+<!-- ACKNOWLEDGEMENTS -->
+<div class="page-break">
+  <h1 class="chap-title" style="text-align: center;">Acknowledgements</h1>
+  <p class="no-indent" style="margin-top: 25px;">
+    We express our deepest gratitude to our research supervisor, Assistant Professor Shehzad Bandey, for his scholarly guidance, constructive criticisms, and constant encouragement throughout the formulation, field documentation, and drafting of this project report.
+  </p>
+  <p>
+    We convey our sincere thanks to the faculty members and staff of the Department of History, as well as the administration of Abdul Ahad Azad Memorial Degree College Bemina, Cluster University of Srinagar, for providing academic support and institutional resources.
+  </p>
+  <p>
+    We are particularly indebted to the Indian National Trust for Art and Cultural Heritage (INTACH), Jammu and Kashmir Chapter, whose architectural resource mappings, surveys, and conservation literature on Srinagar provided essential primary and secondary reference materials for this study.
+  </p>
+  <p>
+    We also express our appreciation to the residents, elders, shopkeepers, and artisans of Shehr-i-Khaas across Aali Kadal, Zaina Kadal, Habba Kadal, and adjoining areas for sharing their oral traditions and community memories. Finally, we thank our families and peers for their continuous patience and support.
+  </p>
+</div>
+<!-- CHAPTER 1 -->
+<div class="page-break">
+  <h1 class="chap-title">Chapter I: Historical Background of Srinagar and Shehr-i-Khaas</h1>
+  
+  <h2 class="sec-title">1.1 Geographical Setting: The Jhelum River (Vyeth)</h2>
+  <p>
+    Srinagar, the historic capital of Kashmir, situated at 34&deg;5'24"N and 74&deg;47'24"E at an elevation of approximately 5,200 feet above mean sea level, evolved along the banks of the River Jhelum[span_0](start_span)[span_0](end_span). Known locally as the <em>Vyeth</em>, celebrated in classical Sanskrit literature as the <em>Vitasta</em>, and designated the <em>Hydaspes</em> by classical Greek writers, the river historically structured the settlement pattern and physical morphology of Srinagar[span_1](start_span)[span_1](end_span). Its course determined the distribution of residential quarters, trade depots, waterfront ghats, places of worship, and civic bridges[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
+  </p>
+  <p>
+    Walter R. Lawrence documented the close relationship between the city and the Jhelum in <em>The Valley of Kashmir</em>[span_4](start_span)[span_4](end_span). Lawrence observed that the city extended along both banks of the river, which had an average width of approximately eighty yards[span_5](start_span)[span_5](end_span). The urban settlement stretched nearly three miles along the fluvial course and covered a breadth of one and a half miles, with the larger share situated on the right bank[span_6](start_span)[span_6](end_span). Beyond physical morphology, the Jhelum was the principal commercial highway and transport route of the valley[span_7](start_span)[span_7](end_span). It formed a navigable waterway from Khanabal down to the gorge of Baramulla, carrying agricultural produce, timber, grain, wool, and handcrafted textiles by flat-bottomed cargo boats (<em>bahats</em>) and light skiffs (<em>shikaras</em>), compensating for the historical lack of paved overland roads[span_8](start_span)[span_8](end_span).
+  </p>
+  <p>
+    The historic core of Srinagar, known as Shehr-i-Khaas, emerged directly out of this riverine setting[span_9](start_span)[span_9](end_span). Houses, bazaars, ghats, and mosques developed along the winding contours of the river[span_10](start_span)[span_10](end_span)[span_11](start_span)[span_11](end_span). Because the Jhelum divided the settlement into two halves, permanent crossings were essential for daily communication[span_12](start_span)[span_12](end_span)[span_13](start_span)[span_13](end_span). The resulting network of wooden bridges—locally known as <em>kadals</em>—became integral links in the urban fabric, connecting commercial, social, and cultural activities across both banks[span_14](start_span)[span_14](end_span)[span_15](start_span)[span_15](end_span).
+  </p>
+  <h2 class="sec-title">1.2 Foundations and Urban Development: Maurya Era to Pravarapura</h2>
+  <p>
+    The urban foundations of Srinagar date to the third century BCE[span_16](start_span)[span_16](end_span)[span_17](start_span)[span_17](end_span). Kalhana’s authoritative twelfth-century chronicle, the <em>Rajatarangini</em>, attributes the founding of the capital <em>Srinagari</em> to Emperor Ashoka (reigned c. 268–232 BCE)[span_18](start_span)[span_18](end_span)[span_19](start_span)[span_19](end_span). Ashoka established this settlement at modern Pandrethan, derived from the Sanskrit <em>Puranadhisthana</em>, meaning "Old Capital", situated three miles upstream from modern downtown Srinagar[span_20](start_span)[span_20](end_span). Ashoka built the Dharmaranya Vihara, several stupas, and a chaitya on the banks of the Vitasta[span_21](start_span)[span_21](end_span). Under the subsequent Gonanda dynasty, the city retained its administrative role until a conflagration during the reign of King Abhimanyu (c. 960 CE) destroyed its timber domestic quarters[span_22](start_span)[span_22](end_span).
+  </p>
+  <p>
+    In the sixth century CE, King Pravarasena II shifted the capital downstream, founding <em>Pravarapura</em> centered around Hari Parbat (<em>Koh-i-Maran</em>) on the right bank of the Jhelum[span_23](start_span)[span_23](end_span). Because the ancient capital at Pandrethan and the new seat lay in close proximity, the name <em>Srinagari</em> persisted in popular usage, while <em>Pravarapura</em> gradually faded from colloquial speech[span_24](start_span)[span_24](end_span). Kalhana describes Pravarapura as a thriving urban center with wooden residences, markets, and waterways[span_25](start_span)[span_25](end_span). He notes that Pravarasena II ordered the construction of a large bridge of boats across the Vitasta, establishing cross-river transit early in the city's history[span_26](start_span)[span_26](end_span). When the Chinese pilgrim Xuanzang (Hiuen Tsang) visited Kashmir in 631 CE, he documented that Pravarapura was the active political capital, while Puranadhisthana lay roughly two miles to the southeast[span_27](start_span)[span_27](end_span). Over subsequent centuries, settlement expanded across both banks of the river to form Shehr-i-Khaas[span_28](start_span)[span_28](end_span)[span_29](start_span)[span_29](end_span).
+  </p>
+  <h2 class="sec-title">1.3 Socio-Economic and Political Nucleus Across Dynastic Regimes</h2>
+  <p>
+    Under the Kashmir Sultanate (1320–1586), Srinagar developed into a major regional center of Islamic craft, architecture, and administration[span_30](start_span)[span_30](end_span). Sultan Alauddin (1344–1356) established Alauddinpur near Aali Kadal[span_31](start_span)[span_31](end_span). Sultan Zain-ul-Abidin (1420–1470 CE), known as <em>Budshah</em>, laid out the suburb of Naushahr, excavated the Nalla Mar canal, and brought skilled craftsmen from Central Asia to establish trades such as papier-m&acirc;ch&eacute;, wood carving, and silk weaving[span_32](start_span)[span_32](end_span)[span_33](start_span)[span_33](end_span). In 1427, Zain-ul-Abidin built Zaina Kadal, the first recorded permanent wooden cantilever bridge across the Jhelum[span_34](start_span)[span_34](end_span)[span_35](start_span)[span_35](end_span). The religious landscape was anchored by the Jamia Masjid in Nowhatta and the Khanqah-i-Mualla along the right bank of the river[span_36](start_span)[span_36](end_span).
+  </p>
+  <p>
+    Following the Mughal annexation in 1586, Srinagar was integrated into the imperial administrative framework[span_37](start_span)[span_37](end_span). In 1589, Emperor Akbar ordered the construction of the stone-walled citadel of Nagar Nagar around Hari Parbat[span_38](start_span)[span_38](end_span). Later Mughal administrators added civic works: Governor Saif Khan built Safa Kadal in 1671, and Governor Fazil Khan constructed protective bunds to mitigate seasonal floods[span_39](start_span)[span_39](end_span)[span_40](start_span)[span_40](end_span).
+  </p>
+  <p>
+    During Afghan rule (1753–1819), administrative instability affected municipal infrastructure, though Governor Amir Khan Jawansher constructed Amira Kadal and developed the Sher Garhi Palace on the left bank[span_41](start_span)[span_41](end_span)[span_42](start_span)[span_42](end_span). Under Sikh rule (1819–1846), traveler William Moorcroft observed that unpaved lanes, neglected canals, and deteriorating bridge piers reflected significant urban decline[span_43](start_span)[span_43](end_span). Following the establishment of the Dogra dynasty in 1846, systematic municipal works were undertaken[span_44](start_span)[span_44](end_span). After the devastating flood of 1893, Maharaja Pratap Singh sponsored the reconstruction of the major timber bridges (Zaina Kadal in 1897, Habba Kadal in 1898, Safa Kadal in 1901, and Fateh Kadal in 1902), stabilizing downtown traffic networks[span_45](start_span)[span_45](end_span)[span_46](start_span)[span_46](end_span).
+  </p>
+  <h2 class="sec-title">1.4 The Vernacular Settlement Pattern of Shehr-i-Khaas</h2>
+  <p>
+    The urban fabric of Shehr-i-Khaas evolved through sustained adaptation to the valley's geography and hydrology[span_47](start_span)[span_47](end_span). It was characterized by five interlinked components:
+  </p>
+  <ul>
+    <li><strong>Narrow Streets and Interconnected Lanes:</strong> Dense alleyways (<em>koochas</em>) optimized pedestrian movement, conserved thermal heat during winters, and linked residential mohallas directly with bridge approaches[span_48](start_span)[span_48](end_span).</li>
+    <li><strong>The Canal Network (Nalla Mar):</strong> Excavated under Sultan Zain-ul-Abidin, this canal connected the Jhelum and Dal Lake with Anchar Lake, serving as an internal transport and drainage network until it was filled in for a vehicular road in 1975[span_49](start_span)[span_49](end_span)[span_50](start_span)[span_50](end_span).</li>
+    <li><strong>Craft-Specific Bazaars:</strong> Bazaars were organized into specialized occupational quarters (e.g., copperware hammering, spice markets, and shawl weaving), located near bridgeheads to facilitate cargo transit[span_51](start_span)[span_51](end_span)[span_52](start_span)[span_52](end_span).</li>
+    <li><strong>Riverfront Ghats and Yarbals:</strong> Flights of stone landing steps along the banks served as active public interfaces for drawing water, domestic washing, loading boats, and neighborhood assembly[span_53](start_span)[span_53](end_span).</li>
+    <li><strong>Vernacular Residential Architecture:</strong> Homes utilized seismic-responsive framing systems—<em>Taq</em> (masonry piers tied with horizontal timber runners) and <em>Dhajji-Dewari</em> (timber frames filled with lightweight masonry)—featuring cantilevered wooden bay windows (<em>zoon dab</em>) and pine lattice screens (<em>pinjrakari</em>)[span_54](start_span)[span_54](end_span)[span_55](start_span)[span_55](end_span).</li>
+  </ul>
+</div>
+<!-- CHAPTER 2 -->
+<div class="page-break">
+  <h1 class="chap-title">Chapter II: Historical Evolution of the Bridges of Shehr-i-Khaas</h1>
+  
+  <h2 class="sec-title">2.1 The Jhelum and the Growth of Shehr-i-Khaas</h2>
+  <p>
+    The expansion of Srinagar on both sides of the Jhelum made reliable cross-river transit essential to daily urban function[span_56](start_span)[span_56](end_span). While passenger skiffs and boat pontoon bridges accommodated early river crossings, they could not support continuous heavy trade and were frequently disrupted by seasonal floods[span_57
